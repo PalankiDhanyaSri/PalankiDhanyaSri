@@ -50,5 +50,3 @@ Shri Vishnu Engineering College for Women, Bhimavaram
 ## 🔗 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/palanki-dhanya-sri-210500380)
-- [Portfolio](https://palankidhanyasri.github.io/Portfolio1/)
-- [GitHub](https://github.com/PalankiDhanyaSri)
