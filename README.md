@@ -20,7 +20,7 @@ Computer Science and Engineering student focused on programming, problem solving
 
 ## 🏆 Technical Activities
 
-- 💧 **IDEATHON 2026 – Aquwise AI**  
+- 💧 **IDEATHON 2026 – Aquawise AI**  
   Explored AI-driven approaches for reducing water consumption in data centers.
 
 - 💻 **Adobe University Hackathon 2026**  
